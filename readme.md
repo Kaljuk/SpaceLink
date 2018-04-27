@@ -1,7 +1,7 @@
 # Readme
 
 # Web design
-## Goal Project nr.1 
+## Goal Project nr.1
 
 ---
 
@@ -15,9 +15,9 @@ A Space Union Citizen, who lives mostly on the spaceStation, but likes to stay i
 ### Functions
 #### + Non-User
 ##### - Plans pricing
-- View plans pricing 
+- View plans pricing
 [Basic | Standard | Premium | Deluxe]
-- Select a plan 
+- Select a plan and stuff
 - Select Plans additional options
 - Add|Connect people to the Plan
 #
@@ -25,7 +25,7 @@ A Space Union Citizen, who lives mostly on the spaceStation, but likes to stay i
 #####
 
 ### Visuals
-#### Design Concepts&Ideas 
+#### Design Concepts&Ideas
 - Dark & White | Maybe orange
 ##### Possible inspirations <Links>
 - https://dribbble.com/shots/2707411-Netflix-Redesign-Orange-is-the-new-Black
