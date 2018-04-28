@@ -29,3 +29,10 @@ A Space Union Citizen, who lives mostly on the spaceStation, but likes to stay i
 - Dark & White | Maybe orange
 ##### Possible inspirations <Links>
 - https://dribbble.com/shots/2707411-Netflix-Redesign-Orange-is-the-new-Black
+
+
+# Logged in user elements
+
+- Calendar [googleCalendar, other]
+- SmartHome integration [Simulate opening the space hatch, turning on the TV] 
+- YouTube / FB post'like content or integration
