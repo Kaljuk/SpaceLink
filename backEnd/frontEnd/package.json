@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "jsbuild": "babel js -d public_js"
+    "jsbuild": "babel js -d public_js",
+    "browserjs": "browserify js -t babelify --outdir public_js"
   },
   "author": "Erik K",
   "license": "ISC",
